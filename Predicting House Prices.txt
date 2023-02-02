@@ -1,0 +1,4 @@
+Predicting House Prices: Build a model to predict the sale price of a house based on its features such as size, 
+location, number of bedrooms, etc. You can use any publicly available dataset such as the Boston Housing dataset 
+or the House Prices dataset on Kaggle. This project can cover various topics in machine learning such as 
+regression, feature engineering, and model selection.
